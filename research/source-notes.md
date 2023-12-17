@@ -49,6 +49,20 @@ The first true cloud company.
 - This meant loudcloud pivoted from building websites to selling software that allowed companies to build them.
 - Editorial note: this seems like the death blow for Loudcloud as a cloud company. At this point they supplied software to companies that helped them develop an "internal" cloud instead of cloud computing and storage as a service.
 
+### [The Hard Thing About Hard Things](http://library.lol/main/77F9C848EC4403E988972C467FC17949)
+
+- Loudcloud was initially financed by Benchmark Capital and Marc Andreessen. Benchmark put in $15m at a pre-money valuation of $45m. Andreessen invested an additional $6m.
+- After two months they raised an additional $45m from Morgan Stanley in debts with no payment for three years.
+- Advice from Andy Rachleff of Benchmark Capital: "Think about how you might run the business if capital were free".
+- Initially they averaged hiring 30 employees a month.
+- Nine months in they booked $27m of new contracts in a quarter.
+- This is about when the dot-com crash hit.
+- They had spent $66m to build a cloud service and needed to raise money again
+- Raised a series C at $700m pre-money and raised $120m in Q1 2000. 
+- In Q2 2000 they expected $100m in sales but only booked $37m.
+- Needed to raise more in Q4 2000 but couldn't find an investor.
+- 
+
 ## Amazon Web Services
 
 ...
