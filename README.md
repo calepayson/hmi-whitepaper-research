@@ -14,4 +14,3 @@ The first theme will be a great way to think about a new technology powering all
 
 ## Index
 - **research** - A folder containing all notes, takeaways, etc.
-- **sources** - A folder containing any source used.
