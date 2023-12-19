@@ -2,7 +2,7 @@
 
 ## The Cloud
 
-X as a service. The key is compute
+X as a service. The key is compute.
 
 ### [The NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf)
 
@@ -61,7 +61,19 @@ The first true cloud company.
 - Raised a series C at $700m pre-money and raised $120m in Q1 2000. 
 - In Q2 2000 they expected $100m in sales but only booked $37m.
 - Needed to raise more in Q4 2000 but couldn't find an investor.
-- 
+- The only option was to go public.
+- Business model:
+	- Signed customers to two-year contracts, and recognized revenue monthly
+	- Focused on Unix applications
+- Wanted to offer at $10 per share at a total valuation of $700m
+- Ended up selling at $6 a share and raised $162.5m
+- Remember, this is in the middle of the dot-com crash
+- Due to churn and declining sales prospects it became clear they wouldn't hit their forecasts for the year
+- The stock dropped to $2
+- Exodus, their largest competitor went bankrupt on Sep 26 2001.
+	- 9 months before had been valued at $50b and had raised $800m
+- Shit was hitting the fan.
+- “What would I do if we went bankrupt?” The answer that I came up with surprised me: “I’d buy our software, Opsware, which runs in Loudcloud, out of bankruptcy and start a software company.” Opsware was the software that we’d written to automate all the tasks of running the cloud: provisioning servers and networking equipment, deploying applications, recovering the environment in case of disaster, and so forth.”
 
 ## Amazon Web Services
 
