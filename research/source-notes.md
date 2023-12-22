@@ -22,7 +22,7 @@ X as a service. The key is compute
 
 ## Mainframes and Time Sharing
 
-... (IBM?)
+... (IBM?) ...
 
 ## Internet Based Services
 
