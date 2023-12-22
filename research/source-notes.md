@@ -30,12 +30,16 @@ X as a service. The key is compute.
 
 ## Loudcloud
 
-The first true cloud company.
+The first true cloud company. Loudcloud was founded on 1999-09-09 by Marc Andreessen, Ben Horowitz, and others. They supplied companies with plug-and-play "clouds" for common webdev jobs like building a database. Internally they managed these clouds with a proprietary software, Opsware, that automated generating, managing, and allocating resources for the clouds. 
+
+They scaled insanely quickly (averaged an employee a day initially). Their fundraising, revenue, and burn matched this. They were racing to carve out market share and the dot-com crash caught them to far out over their skis. Many of their customers (dot-com companies) went bankrupt or churned and Loudcloud had no buffer. Deep underwater, they pivoted from a cloud company (Loudcloud) to a software company (Opsware). They sold their cloud business and refactored their internal software in order to sell it to other companies. 
+
+There is not a lot of detail available about Loudcloud but it seems like it failed because of an overemphasis on growth at all costs coupled with a massive industry-wide recession.
 
 ### [Crank It Up](https://www.wired.com/2000/08/loudcloud/)
 
 - Loudcloud (now Opsware) was founded in late 1999 by Marc Andreessen, Ben Horowitz, Tim Howes, and Sik Rhee.
-- It was concieved of by Sik Rhee, former CTO of the ecommerce platform division at AOL, when the founding team was looking to build a new company together. He noticed that when a company was initially listed on AOL, the traffic to their website would 10X-100X and the site would inevitably crash. Rather than building a new website, he proposed building a company that built scalable web infrastructure.
+- It was conceived of by Sik Rhee, former CTO of the ecommerce platform division at AOL, when the founding team was looking to build a new company together. He noticed that when a company was initially listed on AOL, the traffic to their website would 10X-100X and the site would inevitably crash. Rather than building a new website, he proposed building a company that built scalable web infrastructure.
 - There were plenty of companies building websites for other companies but Loudcloud stood out for an emphasis on scalability through automation. Other companies scaled linearly, they had to hire a new team to build a new site. Loudcloud was able to do it with a few keystrokes and little extra manpower.
 - They also automated the sites' ability to scale during increased or reduced traffic.
 - Loudcloud offered a number of "clouds" like a Database Cloud or a Mail Cloud and users paid a monthly fee based on the cloud capacity they used.
@@ -74,10 +78,32 @@ The first true cloud company.
 	- 9 months before had been valued at $50b and had raised $800m
 - Shit was hitting the fan.
 - “What would I do if we went bankrupt?” The answer that I came up with surprised me: “I’d buy our software, Opsware, which runs in Loudcloud, out of bankruptcy and start a software company.” Opsware was the software that we’d written to automate all the tasks of running the cloud: provisioning servers and networking equipment, deploying applications, recovering the environment in case of disaster, and so forth.”
+- their biggest client went bankrupt in Q1 2002, a loss of $25m revenue.
+- This prompted Loudcloud's shift to Opsware.
+- 440 of 450 were working in the cloud business. 10 were working to make the opsware software a viable product.
+- "The only way out of the cloud business without going bankrupt was through higher sales, because even if we laid off 100 percent of the employees, the infrastructure costs would still kill us without a sharper sales ramp"
+- Started thinking about selling the company
+- Sold Loudcloud to EDS for $64.5m in cash
+	- Opsware retained the intellectual property and became a software company
+	- EDS agreed to license the software to run Loudcloud and EDS for $20m a year
+- Stock price fell to $0.35 per share then slowly rose to $1 / share
+- Now they had to refactor the software to make it market ready.
+- The rest is all about opsware. The moral is, they left the cloud business.
 
 ## Amazon Web Services
 
-...
+### [How Amazon grew an awkward side project into AWS, a behemoth that's now 4 times bigger than its original shopping business](https://fortune.com/longform/amazon-web-services-ceo-adam-selipsky-cloud-computing/)
+
+- Amazon seems quite secretive. Won't mention number of employees working on AWS
+- Folklore suggests AWS started when Amazon started renting spare computer capacity to other companies.
+- AWS was born from two problems
+	- Amazon had built a massive website from scratch but was deploying tons of resources on building the foundational infrastructure. 
+		- Each project team was building this same infrastructure for their project. 
+		- Bezos called it undifferentiated heavy lifting
+		- To deal with this they started building a shared infrastructure layer that every team could use. Things like storage, compute, capabilities, and databases.
+	- Other websites wanted to add amazon links but amazon had write a code snippet for every site.
+		- In 2002 Amazon released a piece of software that allowed these websites to build a custom link by writing code. 
+		- On the release of the free version of this software, Amazon noticed that their own developers were using it. 
 
 ## Google Cloud
 
