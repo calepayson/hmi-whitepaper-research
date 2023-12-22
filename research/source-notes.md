@@ -104,6 +104,24 @@ There is not a lot of detail available about Loudcloud but it seems like it fail
 	- Other websites wanted to add amazon links but amazon had write a code snippet for every site.
 		- In 2002 Amazon released a piece of software that allowed these websites to build a custom link by writing code. 
 		- On the release of the free version of this software, Amazon noticed that their own developers were using it. 
+- AWS seems like a hard pivot for Amazon until you realize that they saw themselves as a technology company that happened to dive into retail first.
+- In March 2006 AWS launched S3 (Simple Storage Service). 12,000 developers signed up.
+- Around August 2006 it launched EC2 (Elastic Compute Cloud).
+- Both were massive successes because they were built for individual developers while allowing the them to scale to the size of a massive company.
+- “A business miracle happened,” Bezos told a conference years later. “This is the greatest piece of business luck in the history of business so far as I know. We faced no like-minded competition for seven years. I think the big established enterprise software companies did not see Amazon as a credible enterprise software company, so we had this incredible runway.”
+- Amazon does not have a "competitive strategy" it has a "customer strategy"
+
+### [How AWS came to be](https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/)
+
+...
+
+### [A Brief History Of AWS - And How Computing Has Changed](https://digitalcloud.training/a-brief-history-of-aws-and-how-computing-has-changed/)
+
+...
+
+### [The Everything Store](http://library.lol/main/587CF274189E03927340B6448315440D)
+
+...
 
 ## Google Cloud
 
