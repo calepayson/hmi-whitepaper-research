@@ -113,7 +113,16 @@ There is not a lot of detail available about Loudcloud but it seems like it fail
 
 ### [How AWS came to be](https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/)
 
-...
+- In the 2000s Amazon was having a hard time scaling which forced them to build scalable internal systems.
+- In 2000 they wanted to launch a service called Merchant.com so that retailers could build shopping sites with Amazon's e-commerce engine.
+- This proved nearly impossible due to technical debt
+- They solved their technical debt by turning it all into a set of well-documented API's
+- These API's proved valuable to internal developers
+- decoupled, API-access design became the standard
+- At this time Amazon was seeing delays when building new applications
+- The issue was that it took months to spin up the infrastructure for each project
+- They set out to solve this with the decoupled, API access design and stumbled into a product
+- In 2003 they began to articulate the idea of AWS thinking of it as an operating system for the internet
 
 ### [A Brief History Of AWS - And How Computing Has Changed](https://digitalcloud.training/a-brief-history-of-aws-and-how-computing-has-changed/)
 
