@@ -153,4 +153,26 @@ There is not a lot of detail available about Loudcloud but it seems like it fail
 - Original startup name was "/dev/payments"
 - "Paypal has done a lot to catch up on (developer usability), and Stripe has done a lot to get worse for developers, which means they're both pleasantly mediocre."
 - "Paypal's obsession with User Acquisition is ironically giving their competitors a completely arbitrary advantage"
-## Paypal
+## PayPal
+
+### [How the 'PayPal Mafia' redefined success in Silicon Valley](https://www.techrepublic.com/article/how-the-paypal-mafia-redefined-success-in-silicon-valley/)
+
+- Originally founded as Confinity by Max Levchin, Peter Thiel, and Luke Nosek. 
+- When founded it was focused on mobile payments via handheld devices like PalmPilots
+- When an employee figured out how to send money transfers via email they named that service PayPal.
+- Merged with X.com (founded by Elon Musk).
+- Finally adopted the name PayPal in 2001
+- A list of some of PayPals main problems early on:
+	- Consumer adoption
+	- Fraud
+	- Regulatory problems
+	- Hostility from Visa and Mastercard
+	- Competition from eBay
+- Invented some widely used strategies:
+	- "**One of the first viral apps:** PayPal users were able to send money to someone without an account, forcing them to open an account to claim their money."
+	- "**One of the first companies to use a platform strategy:** Sacks said that PayPal was 'essentially an app on top of eBay.''"
+	- "**One of the first companies to offer an embeddable widget:** Users could put the PayPal payment logo onto an eBay auction. Embeddable content later became key for YouTube and was a big part of how it grew."
+	- "**One of the first companies to rely on an iterative product strategy:** Features were released whenever they were finished, not at the mercy of product cycles."
+- Relied on promoting existing employees rather than hiring outside management.
+- The PayPal team scattered after being acquired by eBay.
+- A good take: PayPal beat eBay because it was scrappy and un-bureaucratic but this is exactly what forced the splintering when acquired by eBay.
