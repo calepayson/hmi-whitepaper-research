@@ -140,3 +140,17 @@ There is not a lot of detail available about Loudcloud but it seems like it fail
 
 ...
 
+## Developer Tools and Bottoms-Up/PLG Motions
+
+## Stripe
+
+### [Stripe is Paypal circa 2010](https://learncodethehardway.com/blog/18-stripe-is-paypal-circa-2010/)
+
+- This is a small business perspective. Take the following with a huge grain of salt
+- Paypal dominates small business, stripe dominates large
+- "People really, _really_, hate Peter Thiel and Elon Musk. So much so that they will refuse to give my small business money if it goes through Paypal on the off chance that those two guys might get some of it." - just a hilarious idea
+- Stripe's biggest advantage for small business, in this author's opinion, is that it only charges credit cards whereas paypal tries to coopt "users
+- Original startup name was "/dev/payments"
+- "Paypal has done a lot to catch up on (developer usability), and Stripe has done a lot to get worse for developers, which means they're both pleasantly mediocre."
+- "Paypal's obsession with User Acquisition is ironically giving their competitors a completely arbitrary advantage"
+## Paypal
